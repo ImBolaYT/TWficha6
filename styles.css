@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Raleway', sans-serif;
+    src: url(https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap);
+  }
+  
+  div {
+    font-family: Raleway;
+    padding-left: 2%;
+  }
+
+  body {
+    background-color:#070606;
+    font-family: 'Raleway', sans-serif;
+  }
+
+  h1 {
+    padding-top: 5%;
+    font-weight: bold;
+    color:#FFFFFF;
+    font-size: 100px;
+  }
+
+  p {
+    color:#BDBDBD;
+    font-size: 25px;
+  }
+
+  button {
+    background-color:#2B892E;
+    border-radius: 20px;
+    height: 40px;
+    width: 120px;
+    vertical-align: middle;
+    color:#BDBDBD;
+  }
+
+  img {
+    padding-top: 5%;
+  }
